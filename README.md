@@ -1,2 +1,2 @@
 # web-template
-web template using adobe photoshop
+web template design using adobe photoshop
